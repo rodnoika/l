@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "nfactorial",
-=======
-  "name": "test",
->>>>>>> 8ad4dd9c149f4faa1cca788bafa6310593b341d5
   "private": true,
   "version": "0.0.0",
   "type": "module",
